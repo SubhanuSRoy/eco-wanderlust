@@ -4,8 +4,8 @@ function Layout({ children }) {
   return (
     <div>
       <div className="bg-lime-300 w-full px-8 py-4 flex items-center justify-between shadow-md">
-        <div className="font-extrabold text-2xl text-t-100">EcoWanderlust</div>
-        <div className="">
+        <div className="font-extrabold text-2xl text-lime-200">EcoWanderlust</div>
+        <div className="text-lime-200 cursor-pointer">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
