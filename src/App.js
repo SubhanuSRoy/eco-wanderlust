@@ -92,7 +92,7 @@ function App() {
           </div>
           {prompt && (
             <div className="flex flex-col gap-4 sm:flex-row items-start justify-around text-t-100 text-2xl font-medium">
-              <div className="bg-lime-200 border-2 border-gray-800 rounded-md shadow-md p-8 w-full sm:w-1/2 text-center">
+              <div className="bg-lime-100 border-2 border-gray-800 rounded-md shadow-md p-8 w-full sm:w-1/2 text-center">
                 <div className="font-extrabold text-4xl my-4">
                   Sustainable Itinerary
                 </div>
